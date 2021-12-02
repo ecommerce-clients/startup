@@ -1,0 +1,1 @@
+var SubDomain = 'startup'; var SiteID = '10D5EEDC-6ED6-448F-A001-A0CAB467D6AF'; var host = 'https://api.eraconnect.net';
